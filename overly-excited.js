@@ -1,8 +1,7 @@
 // Create an array that contains the words in the sentence
 var sentence = ["The", "walrus", "danced", "through", "the", "trees", "in", "the", "light", "of", "the", "moon"];
 
-
-    
+console.log("fuck this project");
 
 
  
